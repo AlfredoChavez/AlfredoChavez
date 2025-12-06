@@ -41,15 +41,15 @@ https://www.linkedin.com/in/alfredo-chavez/
 <br>
 
 <div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="350" style="display: inline-block; margin-right: 20px;" />
-  <img src="/metrics-isocalendar.svg" alt="ISO Calendar" width="350" style="display: inline-block; margin-left: 20px;" />
+  <img src="github-metrics.svg" alt="Metrics" width="350" style="display: inline-block; margin-right: 20px;" />
+  <img src="metrics-isocalendar.svg" alt="ISO Calendar" width="350" style="display: inline-block; margin-left: 20px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="/metrics-languages.svg" alt="Languages" width="350" style="display: inline-block; margin-right: 20px;" />
-  <img src="/metrics.plugin.topics.icons.svg" alt="Topics Icons" width="350" style="display: inline-block; margin-left: 20px;" />
+  <img src="metrics-languages.svg" alt="Languages" width="350" style="display: inline-block; margin-right: 20px;" />
+  <img src="metrics.plugin.topics.icons.svg" alt="Topics Icons" width="350" style="display: inline-block; margin-left: 20px;" />
 </div>
 
 <!--

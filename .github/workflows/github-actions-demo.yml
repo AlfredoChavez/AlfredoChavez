@@ -17,6 +17,17 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Plugins:
+          user: alfredochavez
+          filename: metrics-isocalendar.svg
+          base: ''
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: alfredochavez
+          filename: metrics-languages.svg
+          base: ''
+          plugin_languages: yes
+          plugin_languages_details: percentage

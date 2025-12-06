@@ -1,6 +1,6 @@
 Hi there, thanks for stopping by! I'm **Alfredo Chavez**. 👨‍💻
 
-```javascript
+```js
 const alfredoChavez = {
   name: 'Alfredo Chávez',
   location: 'London, UK',
@@ -34,7 +34,7 @@ const alfredoChavez = {
 };
 ```
 
-You can find me here 🌍:
+You can reach out to me here 🌍:
 
 https://www.linkedin.com/in/alfredo-chavez/
 

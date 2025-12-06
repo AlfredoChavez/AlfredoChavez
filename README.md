@@ -1,4 +1,4 @@
-Hi there, thanks for stopping by! I'm **Alfredo Chavez**. 👨
+Hi there, thanks for stopping by! I'm **Alfredo Chavez**. 👨‍💻
 
 ```javascript
 const alfredoChavez = {

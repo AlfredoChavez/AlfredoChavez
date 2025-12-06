@@ -1,4 +1,6 @@
-Hi there, thanks for stopping by! I'm **Alfredo Chavez**. 👨‍💻
+Hi there, thanks for stopping by! I'm **Alfredo Chavez**.
+
+If you want to know more about me, try parsing the following object 😉:
 
 ```js
 const alfredoChavez = {
@@ -30,7 +32,7 @@ const alfredoChavez = {
     ],
   },
   funFact:
-    'Can jump between Grasshopper definitions and full-stack apps without breaking a sweat.',
+    'Can jump between Grasshopper definitions and full-stack apps 👨‍💻 without breaking a sweat.',
 };
 ```
 

@@ -38,9 +38,18 @@ You can reach out to me here 🌍:
 
 https://www.linkedin.com/in/alfredo-chavez/
 
-<div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="400">
-</div>
+<br>
+<table align="center">
+  <tr>
+    <td><img src="/metrics-base.svg" alt="Metrics Base" width="350" /></td>
+    <td><img src="/metrics-languages.svg" alt="Languages" width="350" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="/metrics-isocalendar.svg" alt="ISO Calendar" width="700" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **AlfredoChavez/AlfredoChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

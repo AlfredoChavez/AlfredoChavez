@@ -54,5 +54,12 @@ https://www.linkedin.com/in/alfredo-chavez/
   <img src="metrics.plugin.topics.icons.svg" alt="Topics Icons" width="350" style="display: inline-block; margin-left: 20px;" />
 </div>
 
+<p align="center" style="margin-top: 20px;">
+  ⭕️ <strong>Octo Ring:</strong>
+  <a href="https://octo-ring.com/p/AlfredoChavez/prev">Previous</a> •
+  <a href="https://octo-ring.com/p/AlfredoChavez/random">Random</a> •
+  <a href="https://octo-ring.com/p/AlfredoChavez/next">Next</a>
+</p>
+
 <!--
 **AlfredoChavez/AlfredoChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

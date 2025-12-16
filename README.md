@@ -54,7 +54,7 @@ https://www.linkedin.com/in/alfredo-chavez/
   <img src="metrics.plugin.topics.icons.svg" alt="Topics Icons" width="350" style="display: inline-block; margin-left: 20px;" />
 </div>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 50px;">
   ⭕️ <strong>Octo Ring:</strong>
   <a href="https://octo-ring.com/p/AlfredoChavez/prev">Previous</a> •
   <a href="https://octo-ring.com/p/AlfredoChavez/random">Random</a> •

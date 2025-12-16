@@ -56,7 +56,6 @@ https://www.linkedin.com/in/alfredo-chavez/
 
 <br>
 <br>
-<br>
 
 <p align="center">
   ⭕️ <strong>Octo Ring:</strong>
